@@ -1,0 +1,3 @@
+- bed
+- drawer
+- bookshelf

@@ -1,0 +1,3 @@
+- couch
+- carpet
+- tv

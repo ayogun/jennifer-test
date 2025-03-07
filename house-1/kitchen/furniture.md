@@ -1,0 +1,5 @@
+- table
+- chairs
+- drawers
+- countertop
+

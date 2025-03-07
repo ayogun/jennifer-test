@@ -1,0 +1,4 @@
+- bread
+- cheese
+- meat
+- egg

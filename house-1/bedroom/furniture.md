@@ -1,3 +1,6 @@
 - bed
 - drawer
 - bookshelf
+- couch
+- chair 
+- end table

@@ -2,3 +2,6 @@
 - cheese
 - meat
 - egg
+- steak
+- milk
+- fruit
